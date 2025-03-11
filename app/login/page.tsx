@@ -66,7 +66,7 @@ export default function LoginPage() {
         </div>
       </header>
 
-      <main className="flex-1 flex items-center justify-center p-4">
+      <main className="flex-1 flex justify-center p-4 mt-10 max-h-min">
         <Card className="w-full max-w-md shadow-lg border-sky-700 bg-navy-700">
           <CardHeader className="pb-2">
             <Tabs
